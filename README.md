@@ -3,6 +3,9 @@
 
 # Maybe: The personal finance app for everyone
 
+[![HF Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Space-blue)](https://huggingface.co/spaces/XMRTDAO/maybe-finance-app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/xmrtdao/maybe-finance-app)
+
 <b>Get
 involved: [Discord](https://link.maybe.co/discord) • [Website](https://maybefinance.com) • [Issues](https://github.com/maybe-finance/maybe/issues)</b>
 
