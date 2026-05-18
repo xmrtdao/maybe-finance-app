@@ -3,6 +3,10 @@
 
 # Maybe: The personal finance app for everyone
 
+**Live Site:** [https://xmrtdao.github.io/maybe-finance-app/](https://xmrtdao.github.io/maybe-finance-app/) | [Fleet Dashboard](https://relay.mobilemonero.com)
+
+---
+
 [![HF Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Space-blue)](https://huggingface.co/spaces/XMRTDAO/maybe-finance-app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/xmrtdao/maybe-finance-app)
 
